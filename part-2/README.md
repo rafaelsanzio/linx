@@ -1,10 +1,5 @@
 <h1 align="center">
   <img style="background-color: #312e38; border-radius: 10px;" alt="linx-logo" src="https://www.linx.com.br/app/themes/linx/crystals/dist/assets/static/logo.png" />
-  <p align="center">
-  <a href="https://golang.org/">
-    <img src="https://img.shields.io/badge/-Golang-14A0C4?style=flat&logo=Go&logoColor=#00ADD8" />
-  </a>
-  </p>
 </h1>
 
 ## 🔖 Sobre o projeto
@@ -17,7 +12,7 @@ O projeto **Agregador de URLs**, desenvolvido para teste de programador na [Linx
 
 ## ▶️ Getting Started
 
-- **Passo 1️⃣** : git clone do projeto
+- **Passo 1️⃣** : git clone do projeto [Linx](https://github.com/rafaelsanzio/linx "Linx")
 - **Passo 2️⃣** : executar a instalação do [Go](https://golang.org/ "Go")
 
 ````bash
@@ -29,7 +24,8 @@ O projeto **Agregador de URLs**, desenvolvido para teste de programador na [Linx
 
    # Rodando os testes
    $ go test -v ./...
-   ```
+````
+
 - **Exemplo** : go run main.go ./files/import-real_test.json
 
 ## ㊗️ Considerações
