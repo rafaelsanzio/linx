@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img style="background-color: #312e38; border-radius: 10px;" alt="gobarber-logo" src="https://www.linx.com.br/app/themes/linx/crystals/dist/assets/static/logo.png" />
+</h1>
+
 # Introdução
 
 O teor deste desafio é bastante voltado a alguns problemas que resolvemos com frequência, e vai nos ajudar a descobrir como você raciocina e quais são suas habilidades.
