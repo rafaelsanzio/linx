@@ -16,7 +16,7 @@
 
 ## 🔖 Sobre o projeto
 
-O projeto **API de Produtos**, desenvolvido para teste de programador na [Linx](https://www.linx.com.br/ 'Linx'). Tendo como objetivo, gerar a sanitização de arquivos, agregando as urls e gerando dump num arquivo **.JSON**.
+O projeto **API de Produtos**, desenvolvido para teste de programador na [Linx](https://www.linx.com.br/ 'Linx'). Tendo como objetivo, a atualização de dados cadastrais de produtos.
 
 ## 💻 Tecnologias
 
