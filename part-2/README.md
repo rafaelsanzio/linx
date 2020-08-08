@@ -27,7 +27,7 @@ O projeto **Agregador de URLs**, desenvolvido para teste de programador na [Linx
 ````
 
 - **Exemplo** : go run main.go ./files/import-real_test.json
-- **Exemplo Dump** : arquivo dump.json
+- **Exemplo Dump** : arquivo [dump.json](https://github.com/rafaelsanzio/linx/blob/master/part-2/dump.json "dump.json") 
 
 ## ㊗️ Considerações
 - Projeto desenvolvido by:
