@@ -6,8 +6,8 @@ import ProductsController from '../controllers/ProductsController';
 
 const productsRouter = Router();
 
-const appointmentsController = new ProductsController();
+const Controller = new ProductsController();
 
-productsRouter.post('/', appointmentsController.create);
+productsRouter.post('/', Controller.create);
 
 export default productsRouter;
