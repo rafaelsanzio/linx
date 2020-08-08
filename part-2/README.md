@@ -27,11 +27,15 @@ O projeto **Agregador de URLs**, desenvolvido para teste de programador na [Linx
 ````
 
 - **Exemplo** : go run main.go ./files/import-real_test.json
+- **Exemplo Dump** : arquivo dump.json
 
 ## ㊗️ Considerações
-- Projeto desenvolvido  by:
+- Projeto desenvolvido by:
 
-- <img width="20px" src="https://img.icons8.com/fluent/96/github.png" /> [Rafael Sanzio](https://github.com/rafaelsanzio "Rafael Sanzio")
+  - <a href="https://github.com/rafaelsanzio">
+    <img src="https://img.shields.io/badge/-Rafael%20Sanzio-000000?style=flat&logo=GitHub&logoColor=#000000" />
+  </a>
 
-- <img width="20px" src="https://img.icons8.com/color/2x/linkedin.png" /> [Rafael Sanzio](https://www.linkedin.com/in/rafael-sanzio-012778143/ "Rafael Sanzio")
-````
+  - <a href="https://www.linkedin.com/in/rafael-sanzio-012778143/">
+    <img src="https://img.shields.io/badge/-Rafael%20Sanzio-0077B5?style=flat&logo=LinkedIN&logoColor=#000000" />
+  </a>
