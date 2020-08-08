@@ -14,7 +14,7 @@ type IProduct = Array<{
   name: string;
 }>;
 
-describe('Create Appointment', () => {
+describe('Import Products', () => {
   beforeEach(() => {
     fakeProductsRepository = new FakeProductsRepository();
     createProduct = new ImportProductService(fakeProductsRepository);
