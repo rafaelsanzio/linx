@@ -31,7 +31,7 @@ O projeto **API de Produtos**, desenvolvido para teste de programador na [Linx](
 ## ▶️ Getting Started
 
 - **Passo 1️⃣** : git clone do projeto [Linx](https://github.com/rafaelsanzio/linx 'Linx')
-- **Passo 2️⃣** : executar a instalação de: [Node](https://golang.org/ 'Node') e [Docker](https://www.docker.com/ 'Docker')
+- **Passo 2️⃣** : executar a instalação de: [Node](https://nodejs.org/en/ 'Node') e [Docker](https://www.docker.com/ 'Docker')
 - **Passo 3️⃣** : rodando a aplicação executando os seguintes comandos:
 
 ```bash
