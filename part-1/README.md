@@ -54,6 +54,14 @@ O projeto **API de Produtos**, desenvolvido para teste de programador na [Linx](
    $ npm test ou yarn test
 ```
 
+## 📸 Imagens
+
+- Imagem de exemplo de request e response: 
+
+ <p align="center">
+ 	<img src="https://user-images.githubusercontent.com/18368947/89713900-39a70380-d971-11ea-910e-7bf010baa909.png" />
+ </p>
+
 ## ㊗ ️ Considerações
 
 - Projeto desenvolvido by:
