@@ -58,10 +58,10 @@ O projeto **API de Produtos**, desenvolvido para teste de programador na [Linx](
 
 - Projeto desenvolvido by:
 
-- <a href="https://github.com/rafaelsanzio">
+  - <a href="https://github.com/rafaelsanzio">
     <img src="https://img.shields.io/badge/-Rafael%20Sanzio-000000?style=flat&logo=GitHub&logoColor=#000000" />
   </a>
 
-- <a href="https://www.linkedin.com/in/rafael-sanzio-012778143/">
+  - <a href="https://www.linkedin.com/in/rafael-sanzio-012778143/">
     <img src="https://img.shields.io/badge/-Rafael%20Sanzio-0077B5?style=flat&logo=LinkedIN&logoColor=#000000" />
   </a>
