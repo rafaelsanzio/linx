@@ -16,7 +16,7 @@
 
 ## 🔖 Sobre o projeto
 
-O projeto **API de Produtos**, desenvolvido para teste de programador na [Linx](https://www.linx.com.br/ 'Linx'). Tendo como objetivo, a atualização de dados cadastrais de produtos.
+O projeto **API de Produtos**. Tendo como objetivo, a atualização de dados cadastrais de produtos.
 
 ## 💻 Tecnologias
 
