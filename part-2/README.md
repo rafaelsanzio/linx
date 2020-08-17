@@ -4,7 +4,7 @@
 
 ## 🔖 Sobre o projeto
 
-O projeto **Agregador de URLs**, desenvolvido para teste de programador na [Linx](https://www.linx.com.br/ "Linx"). Tendo como objetivo, gerar a sanitização de arquivos, agregando as urls e gerando dump num arquivo **.JSON**.
+O projeto **Agregador de URLs**. Tendo como objetivo, gerar a sanitização de arquivos, agregando as urls e gerando dump num arquivo **.JSON**.
 
 ## 💻 Tecnologias
 
